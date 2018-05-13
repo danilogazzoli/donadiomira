@@ -27,7 +27,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="0.61134868"
      inkscape:cx="499.62378"
-     inkscape:cy="649.42088"
+     inkscape:cy="518.56266"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -44,7 +44,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -73,6 +73,11 @@
          x="383.68057"
          y="661.09772"
          id="tspan3342"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:180px;font-family:'Stardust Adventure';-inkscape-font-specification:'Stardust Adventure'">Diomira</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:180px;font-family:'Stardust Adventure';-inkscape-font-specification:'Stardust Adventure'">Diomira</tspan><tspan
+         sodipodi:role="line"
+         x="383.68057"
+         y="896.76257"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;font-family:'Stardust Adventure';-inkscape-font-specification:'Stardust Adventure'"
+         id="tspan3337">02.06.2018</tspan></text>
   </g>
 </svg>
